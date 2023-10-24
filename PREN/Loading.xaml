@@ -800,7 +800,7 @@
                     <RotateTransform/>
                     <TranslateTransform/>
                 </TransformGroup>
-            </TextBlock.RenderTransform><Run Text="Bu programı"/><Run Text=" kendi isteğiniz ile"/><LineBreak/><Run Text="kullanırsınız."/><Run Language="de-de" Text=" yaptıklarınızın sorumluğu size aittir."/></TextBlock>
+            </TextBlock.RenderTransform><Run Text="Bu programı"/><Run Text=" kendi isteğiniz ile"/><LineBreak/><Run Text="kullanırsınız."/><Run Language="de-de" Text=" Yaptıklarınızın sorumluğu size aittir."/></TextBlock>
         <TextBlock x:Name="textBlock4_Copy2" HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Height="38" Width="244" Foreground="#FFF35454" FontFamily="Yu Gothic UI Semibold" FontSize="14" FontWeight="Normal" Margin="0,284,0,0" RenderTransformOrigin="0.5,0.5">
             <TextBlock.RenderTransform>
                 <TransformGroup>
