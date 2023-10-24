@@ -782,7 +782,7 @@
                     <RotateTransform/>
                     <TranslateTransform/>
                 </TransformGroup>
-            </TextBlock.RenderTransform><Run Text="PREN, windows'unuzu"/><Run Text=" değiştirir,"/><LineBreak/><Run Text="ne yaptığınıza dikkat edin."/><Run Language="de-de" Text=""/></TextBlock>
+            </TextBlock.RenderTransform><Run Text="PREN, Windows sürümünüzü"/><Run Text=" değiştirir,"/><LineBreak/><Run Text="ne yaptığınıza dikkat edin."/><Run Language="de-de" Text=""/></TextBlock>
         <TextBlock x:Name="textBlock4_Copy" HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="244" Foreground="#FFAFAFAF" FontFamily="Yu Gothic UI Semibold" FontSize="20" TextAlignment="Center" Margin="0,88,0,0" RenderTransformOrigin="0.5,0.5">
             <TextBlock.RenderTransform>
                 <TransformGroup>

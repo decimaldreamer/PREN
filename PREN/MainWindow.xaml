@@ -785,7 +785,7 @@
                     <RotateTransform/>
                     <TranslateTransform/>
                 </TransformGroup>
-            </TextBlock.RenderTransform><Run Text="PREN, oyun deneyiminizi geliştirmek için oyunlardaki performansı ve gecikmeyi artırmak üzere tasarlanmıştır."/><LineBreak/><Run Text="Bu bir erken alfa sürümüdür, iyileştirmelere ve önerilere açığız."/></TextBlock>
+            </TextBlock.RenderTransform><Run Text="PREN, oyun deneyiminizi geliştirmek için oyunlardaki performansı ve gecikmeyi düşürmek üzere tasarlanmıştır."/><LineBreak/><Run Text="Bu bir erken alfa sürümüdür, iyileştirmelere ve önerilere açığız."/></TextBlock>
         <TextBlock x:Name="textBlock" HorizontalAlignment="Left" TextWrapping="Wrap" Text="PREN'E HOŞGELDİN" VerticalAlignment="Top" Height="31" Width="644" Foreground="#FFAFAFAF" FontSize="20" Margin="84,88,0,0" FontWeight="Normal" TextAlignment="Center" FontFamily="Yu Gothic UI Semibold" RenderTransformOrigin="0.5,0.5">
             <TextBlock.RenderTransform>
                 <TransformGroup>
