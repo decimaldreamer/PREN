@@ -47,7 +47,7 @@ namespace PREN.Properties {
         }
         
         /// <summary>
-        ///   Tümü için geçerli iş parçacığının CurrentUICulture özelliğini geçersiz kular
+        ///   Tümü için geçerli iş parçacığının CurrentUICulture özelliğini geçersiz kılar
         ///   CurrentUICulture özelliğini tüm kaynak aramaları için geçersiz kılar.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
